@@ -8,7 +8,6 @@ In this file is my first project after I learn the NodeMCU and some code about l
 In this section,you can see I use this module connect wifi like:
 
 ``` lua
-
 cfg={}                        --like Python's ditc
 
 cfg.ssid="esp12f"             --your wifi's name
@@ -22,16 +21,15 @@ wifi.setmode(wifi.STATION)    --set wifi's mode
 wifi.sta.config(cfg)          --put your ditc to this config
 
 wifi.sta.connect()            --connect wifi
-
 ```
 
-And connect AliCloud,[click here to see details](https://github.com/dreamofTaotao/ESP8266NodeMCU-LUA/blob/master/init.lua).
+And connect AliCloud,[Click here to see details](https://github.com/dreamofTaotao/ESP8266NodeMCU-LUA/blob/master/init.lua).
 
 ### Special notes:
 
 Official statement,previous some function didn't use after 2019 Q1,so if you face some problems or troubles,you can find out this 
 
-authority. [here is the official documentation](https://nodemcu.readthedocs.io/en/master/).
+authority. [Here is the official documentation](https://nodemcu.readthedocs.io/en/master/).
 
 ### About update
 
