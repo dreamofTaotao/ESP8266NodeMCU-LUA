@@ -1,6 +1,5 @@
 # ESP8266NodeMCU-LUA
 Well, you can see that,I am learning the IOT.After I searched some modules,like ESP01,ESP12F,ESP32...and so on.I think this module is
-
 very apt new learner,just like me.So,if you want to learn knowledge about this area,I suggest you can learn this first.
 
 ## File-init.lua
@@ -37,8 +36,7 @@ authority. [here is the official documentation](https://nodemcu.readthedocs.io/e
 ### About update
 
 When I study this module-NodeMCU(ESP8266), I should thanks for web and Internet.Although this is, I find some document are old,and 
-
-there is no the Chinese document lastest.Therefore,if I have free time,I hope I can translate the lastest English Documentation.
+there isn't the Chinese document lastest.Therefore,if I have free time,I hope I can translate the lastest English Documentation.
 
 ## Most important
 
