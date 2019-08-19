@@ -33,8 +33,14 @@ authority. [Here is the official documentation](https://nodemcu.readthedocs.io/e
 ### About update
 
   When I study this module-NodeMCU(ESP8266), I should thanks for web and Internet.Although this is, I find some document are old,and 
-there isn't the Chinese document lastest.Therefore,if I have free time,I hope I can translate the lastest English Documentation.
+there isn't the Chinese document lastest.Therefore,if I have free time,I hope I can translate the lastest English Documentation.And I 
+will might translate 17 modules including "ADC,crypto,file,GPIO,HTTP,I2C,MQTT,net,node"...and so on.And I will put this to this 
+repository.
 
+  If you are interested in this act.
+  
+  Welcome join this club! 
+  
 ## Most important
 
   Continual updates of content......
