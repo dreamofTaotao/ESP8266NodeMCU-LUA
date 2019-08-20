@@ -47,6 +47,8 @@ there isn't the Chinese document lastest.Therefore,if I have free time,I hope I 
 will might translate 17 modules including "ADC,crypto,file,GPIO,HTTP,I2C,MQTT,net,node"...and so on.And I will put this to this 
 repository.
 
+  After updating the ESP8266-NodeMCU-API Chinese Reference Manual,I will might update some codes about using those modules. 
+
   If you are interested in this act.
   
   Welcome join this club! 
