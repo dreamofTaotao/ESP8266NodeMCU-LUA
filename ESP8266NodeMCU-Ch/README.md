@@ -15,7 +15,7 @@
 ## Affliate:
  - [x] ADC          
  - [x] crypto           
- - [ ] file 
+ - [x] file 
  - [ ] GPIO  
  - [ ] HTTP 
  - [ ] I2C   
@@ -31,3 +31,9 @@
  - [ ] WiFi  
  - [ ] WPS
 
+### 更新时间记录轴
+> Ver0.0.1_190819
+>>* 完成ADC模块和crypto模块
+
+> Ver0.0.2_190820
+>>* 完成file模块
