@@ -25,6 +25,16 @@ wifi.sta.connect()            --connect wifi
 
   And connect AliCloud,[Click here to see details](https://github.com/dreamofTaotao/ESP8266NodeMCU-LUA/blob/master/init.lua).
 
+## Folder-NodeMCU-apparatus
+
+  In this file are some tools,documents and Chinese bibliography about NodeMCU,however,this file was published in 2014.The reason why I 
+want to translate new document is that some API are outdate within old documents.
+
+## Folder-NodeMCU-Ch
+
+  There are translated API in Chinese. And this folder is updateing.If you want to see the introduction for API Chinese Version,[Click 
+me](https://github.com/dreamofTaotao/ESP8266NodeMCU-LUA/blob/master/ESP8266NodeMCU-Ch/README.md).
+
 ### Special notes:
 
   Official statement,previous some function didn't use after 2019 Q1,so if you face some problems or troubles,you can find out this 
