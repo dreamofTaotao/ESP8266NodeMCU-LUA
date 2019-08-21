@@ -35,6 +35,9 @@ want to translate new document is that some API are outdate within old documents
   There are translated API in Chinese. And this folder is updateing.If you want to see the introduction for API Chinese Version,[Click 
 me](https://github.com/dreamofTaotao/ESP8266NodeMCU-LUA/blob/master/ESP8266NodeMCU-Ch/README.md).
 
+编写ing：NodeMCU'API中文参考手册，欢迎大家前来star。[点击查看详情](https://github.com/dreamofTaotao/ESP8266NodeMCULUA/blob/master/ESP8266NodeMCU-Ch/README.md)
+【Specially：非常欢迎大家一起编写】
+
 ### Special notes:
 
   Official statement,previous some function didn't use after 2019 Q1,so if you face some problems or troubles,you can find out this 
