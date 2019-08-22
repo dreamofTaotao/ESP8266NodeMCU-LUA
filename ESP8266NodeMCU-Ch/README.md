@@ -17,8 +17,8 @@
  - [x] crypto           
  - [x] file 
  - [x] GPIO  
- - [ ] HTTP 
- - [ ] I2C   
+ - [x] HTTP 
+ - [x] I2C   
  - [ ] MQTT
  - [ ] net 
  - [ ] node   
@@ -40,3 +40,6 @@
 
 >Ver0.0.2_190821
 >>* 完成GPIO模块
+
+>Ver0.0.3_190822
+>>* 完成HTTP/I2C模块
