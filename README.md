@@ -37,6 +37,10 @@ me](https://github.com/dreamofTaotao/ESP8266NodeMCU-LUA/blob/master/ESP8266NodeM
 
 编写ing：NodeMCU'API中文参考手册，欢迎大家前来star。[点击查看详情](https://github.com/dreamofTaotao/ESP8266NodeMCU-LUA/blob/master/ESP8266NodeMCU-Ch/README.md)
 【Specially：非常欢迎大家一起编写】
+  
+  After I compelete this Chinese Version ,I will might code some coding about those Modules.Only according to the API reference，it 
+didn't understand it clearly 
+
 
 ### Special notes:
 
