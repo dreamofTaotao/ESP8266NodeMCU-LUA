@@ -21,7 +21,7 @@
  - [x] I2C   
  - [x] MQTT
  - [x] net 
- - [ ] node   
+ - [x] node   
  - [ ] PWM  
  - [ ] SJSON 
  - [ ] SNTP 
@@ -51,3 +51,6 @@
 
 >Ver0.0.4_190824
 >>* 更新net模块
+
+>Ver0.0.5_190825
+>>* 更新node模块
