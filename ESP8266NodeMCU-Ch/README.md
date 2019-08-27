@@ -22,9 +22,9 @@
  - [x] MQTT
  - [x] net 
  - [x] node   
- - [ ] PWM  
- - [ ] SJSON 
- - [ ] SNTP 
+ - [x] PWM  
+ - [x] SJSON 
+ - [x] SNTP 
  - [ ] timer 
  - [ ] UART
  - [ ] websocket 
@@ -54,3 +54,9 @@
 
 >Ver0.0.5_190825
 >>* 更新node模块
+
+>Ver0.0.6_190826
+>>* 更新PWM模块和SJSON模块
+
+>Ver0.0.6_190827
+>>* 更新SNTP模块
