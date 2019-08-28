@@ -41,6 +41,10 @@ me](https://github.com/dreamofTaotao/ESP8266NodeMCU-LUA/blob/master/ESP8266NodeM
   After I compelete this Chinese Version ,I will might code some coding about those Modules.Only according to the API reference，it 
 didn't understand it clearly 
 
+## Important Module
+Why I said Important,this isn't represent others unimportant.Instead of in our life,we use those module frequently.Like timer,we will 
+nearly use it in our every project.So I think some examples are necessary.I will add some examples in a new Folder and I will provide a 
+module's example index in this new folder's README.md.
 
 ### Special notes:
 
