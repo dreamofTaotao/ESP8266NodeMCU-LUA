@@ -25,7 +25,7 @@
  - [x] PWM  
  - [x] SJSON 
  - [x] SNTP 
- - [ ] timer 
+ - [x] timer 
  - [ ] UART
  - [ ] websocket 
  - [ ] WiFi  
@@ -60,3 +60,6 @@
 
 >Ver0.0.6_190827
 >>* 更新SNTP模块
+
+>Ver0.0.6_190828
+>>* 更新Timer模块
