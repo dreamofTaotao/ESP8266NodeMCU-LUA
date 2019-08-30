@@ -26,8 +26,8 @@
  - [x] SJSON 
  - [x] SNTP 
  - [x] timer 
- - [ ] UART
- - [ ] websocket 
+ - [x] UART
+ - [x] websocket 
  - [ ] WiFi  
  - [ ] WPS
 
@@ -63,3 +63,6 @@
 
 >Ver0.0.6_190828
 >>* 更新Timer模块
+
+>Ver0.0.7_1908230
+>>* 更新UART模块和websocket模块，WiFi模块完成Part1。
