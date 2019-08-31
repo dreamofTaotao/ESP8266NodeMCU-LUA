@@ -28,8 +28,8 @@
  - [x] timer 
  - [x] UART
  - [x] websocket 
- - [ ] WiFi  
- - [ ] WPS
+ - [x] WiFi  
+ - [x] WPS
 
 ### 更新时间记录轴
 > Ver0.0.1_190819
@@ -66,3 +66,7 @@
 
 >Ver0.0.7_1908230
 >>* 更新UART模块和websocket模块，WiFi模块完成Part1。
+
+>Ver0.0.8_1908231
+>>* 更新WiFi模块和WPS0模块
+>>> 基本完成，接下来会进行目录的更新
