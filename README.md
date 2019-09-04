@@ -25,12 +25,12 @@ wifi.sta.connect()            --connect wifi
 
   And connect AliCloud,[Click here to see details](https://github.com/dreamofTaotao/ESP8266NodeMCU-LUA/blob/master/init.lua).
 
-## Folder-NodeMCU-apparatus
+## Folder->NodeMCU-apparatus
 
   In this file are some tools,documents and Chinese bibliography about NodeMCU,however,this file was published in 2014.The reason why I 
 want to translate new document is that some API are outdate within old documents.
 
-## Folder-NodeMCU-Ch
+## Folder->NodeMCU-Ch
 
   There are translated API in Chinese. And this folder is updateing.If you want to see the introduction for API Chinese Version,[Click 
 me](https://github.com/dreamofTaotao/ESP8266NodeMCU-LUA/blob/master/ESP8266NodeMCU-Ch/README.md).
@@ -41,6 +41,11 @@ me](https://github.com/dreamofTaotao/ESP8266NodeMCU-LUA/blob/master/ESP8266NodeM
   After I compelete this Chinese Version ,I will might code some coding about those Modules.Only according to the API reference，it 
 didn't understand it clearly 
 
+## Folder->NodeMCU-Examples
+
+  I add this folder,beacause I think there will be some problems in the Esp8266NodeMCU Chinese'document.Those examples could help you to 
+ comprehend document.And there is the appendix for those examples,[Click me to check it](https://github.com/dreamofTaotao/ESP8266NodeMCU-LUA/tree/master/NodeMCU-Examples).
+  
 ## Important Module
 Why I said Important,this isn't represent others unimportant.Instead of in our life,we use those module frequently.Like timer,we will 
 nearly use it in our every project.So I think some examples are necessary.I will add some examples in a new Folder and I will provide a 
