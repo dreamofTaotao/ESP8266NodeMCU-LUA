@@ -9,5 +9,4 @@ This file use the Mqtt Module,WiFi Module and GPIO module to accomplish how to c
 
 And We used Pin 5 and please change AliCloud'username and password.Thank you so much!
 
-## OLED
-Thanks:https://www.jianshu.com/p/8ec4a17b5da7
+
