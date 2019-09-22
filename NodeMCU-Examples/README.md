@@ -11,7 +11,7 @@
 ### 说明
 >> * 由于，最近跟同学接了一个项目，所以，可能在更新的速度上会放慢一些。但是，我会持续更新，因为我觉得可能这个是另一个解压并且放松的好地方->GitHub。
 
-## OLED-By-NodeMCU
-This program use the ssd1306-12864 to achieve it.
+## NodeMCU_Control_SSD1306
+This program use the ssd1306-12864 to achieve it.And in this file Every line has a comment.
 Thanks:1.https://www.jianshu.com/p/8ec4a17b5da7
        2.https://blog.csdn.net/chinachenlu/article/details/90724022
