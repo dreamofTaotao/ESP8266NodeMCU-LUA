@@ -9,4 +9,7 @@ This file use the Mqtt Module,WiFi Module and GPIO module to accomplish how to c
 
 And We used Pin 5 and please change AliCloud'username and password.Thank you so much!
 
-
+## Thanks
+Because when I debug this project using the real Phone got some errors that webSocket fail to connect.And after that I find 
+some sovle methods.At the end,I know that the mqtt-min.js isn't suit to WeChat_Mini_Program.And I find a better mqtt.js for this 
+project.And the Github is [Click Here](https://github.com/imliubo/Wechat_MQTT_ESP8266_BaiduIoT).
