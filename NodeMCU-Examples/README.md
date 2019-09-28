@@ -14,5 +14,11 @@
 ## NodeMCU_Control_SSD1306
 This program use the ssd1306-12864 to achieve it.And in this file Every line has a comment.
 Thanks:1.https://www.jianshu.com/p/8ec4a17b5da7
+       
        2.https://blog.csdn.net/chinachenlu/article/details/90724022
+       
        3.感谢大神土神121的Lua入门教程和ESP8266-Lua教程。
+
+## NodeMCU_Control_SHT2x_3x
+这个文件夹是使用ESP8266控制SHT2x以及3x的相关代码，虽然暂时（20190928）还没有跑通代码，现在还在研究怎么搞，但是，还是很难才找到的这个代码，认真看了一遍
+SHT3x的说明文档，SHT2x的还没认真看，找到的这个代码是使用SHT20写的，现在需要改成3x，如果有大佬会的话，可以pull一下，大家一起学习。
